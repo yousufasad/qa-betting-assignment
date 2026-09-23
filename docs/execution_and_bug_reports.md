@@ -131,6 +131,10 @@ Before bet: €125.50
 Immediately after bet: €125.50  
 After reload: €115.50
 
+### Screen recording
+
+https://github.com/yousufasad/qa-betting-assignment/blob/88f67611b755ac6b23cc1e1270f97120774f0df9/docs/screenshots/bug-03-balance.mov
+
 ## BUG-04 – Past Match Can Be Selected and Bet Placed
 
 **Severity:** Critical
