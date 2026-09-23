@@ -66,7 +66,7 @@ https://github.com/yousufasad/qa-betting-assignment/blob/1b24c9b690e16c3db7ba595
 ### Reproduction Steps
 
 1. Select an upcoming football match.
-2. Select an outcome with odds other than 2.00.
+2. Select an outcome with odds 2.05.
 3. Enter a valid stake.
 4. Note the potential payout shown in the Bet Slip.
 5. Place the bet.
