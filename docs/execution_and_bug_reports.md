@@ -97,7 +97,7 @@ Multiple successful bets reproduced the issue.
 ### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/fc13cdaada6ef4d7517cccdb18eb7b8521d32642/docs/screenshots/bug-02-payout-01.png
 
-https://github.com/yousufasad/qa-betting-assignment/blob/6e19ac6613dcf2da9cbf5198a9e554b842c23701/docs/bug-02-payout-02.png
+https://github.com/yousufasad/qa-betting-assignment/blob/fde7b2c64eb17ad053955444df03faeced1f3d51/docs/screenshots/bug-02-payout-02.png
 
 ## BUG-03 – Balance Display Not Updated Until Page Reload
 
