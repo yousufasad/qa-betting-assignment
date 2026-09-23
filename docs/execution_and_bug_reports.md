@@ -54,6 +54,10 @@ The confirmation receipt displays incorrect match information, which can cause c
 
 Observed across multiple successful bets.
 
+### Screenshot
+https://github.com/yousufasad/qa-betting-assignment/blob/e061c98258c5bf432aba02541b2807f336088126/docs/bug-01-match-order-01.png
+
+
 ## BUG-02 – Incorrect Potential Payout in Success Receipt
 
 **Severity:** Critical
