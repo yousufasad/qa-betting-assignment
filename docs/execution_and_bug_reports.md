@@ -50,11 +50,10 @@ Example:
 
 The confirmation receipt displays incorrect match information, which can cause confusion when users review their completed bet.
 
-### Evidence
+### Evidence/Screenshot
 
 Observed across multiple successful bets.
 
-### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/db68f15d9046d53fe7c85141b50cdd07f2100cd8/docs/screenshots/bug-01-match-order-01.png
 
 https://github.com/yousufasad/qa-betting-assignment/blob/1b24c9b690e16c3db7ba595e1d70339a704fc76c/docs/screenshots/bug-01-match-order-02.png
@@ -90,11 +89,10 @@ Examples:
 
 The success receipt displays incorrect transaction information and may cause confusion when users verify their bet details.
 
-### Evidence
+### Evidence/Screenshot
 
 Multiple successful bets reproduced the issue.
 
-### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/fc13cdaada6ef4d7517cccdb18eb7b8521d32642/docs/screenshots/bug-02-payout-01.png
 
 https://github.com/yousufasad/qa-betting-assignment/blob/fde7b2c64eb17ad053955444df03faeced1f3d51/docs/screenshots/bug-02-payout-02.png
@@ -155,11 +153,10 @@ A past match can be selected and a bet can be successfully placed.
 
 The application allows betting on an event outside the defined pre-match betting scope.
 
-### Evidence
+### Evidence/Screenshot
 
 Successful bet placement was observed on a past match.
 
-### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/094b4b9ecb225683c7fe53c0cfaf2fcb26bbd6c5/docs/screenshots/bug-04-past-match-01.png
 
 https://github.com/yousufasad/qa-betting-assignment/blob/fa866a1520a153536962aace3c7dbb9a77b022bd/docs/screenshots/bug-04-past-match-02.png
