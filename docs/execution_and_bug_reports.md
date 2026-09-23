@@ -83,7 +83,7 @@ The receipt displays a different payout from the Bet Slip.
 
 Examples:
 
-- Stake €10 x Odds 2.40 = €24.00 in Bet Slip
+- Stake €10 x Odds 2.05 = €20.05 in Bet Slip
 - Receipt displayed €20.00
 
 ### Business Impact
