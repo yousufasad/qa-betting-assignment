@@ -43,8 +43,8 @@ The receipt should display the same home and away team order as the selected mat
 The match order is reversed in the success receipt.
 
 Example:
-- Bet Slip: Tottenham vs Liverpool
-- Receipt: Liverpool vs Tottenham
+- Bet Slip: Leeds vs Norwich
+- Receipt: Norwich vs Leeds
 
 ### Business Impact
 
