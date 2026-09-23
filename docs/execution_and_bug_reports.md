@@ -57,8 +57,7 @@ Observed across multiple successful bets.
 ### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/db68f15d9046d53fe7c85141b50cdd07f2100cd8/docs/screenshots/bug-01-match-order-01.png
 
-https://github.com/yousufasad/qa-betting-assignment/blob/5952a0d98d1839a4bec709d78b0aaf43a65c4146/docs/bug-01-match-order-02.png
-
+https://github.com/yousufasad/qa-betting-assignment/blob/1b24c9b690e16c3db7ba595e1d70339a704fc76c/docs/screenshots/bug-01-match-order-02.png
 
 ## BUG-02 – Incorrect Potential Payout in Success Receipt
 
