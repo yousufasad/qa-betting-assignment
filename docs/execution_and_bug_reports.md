@@ -75,7 +75,7 @@ https://github.com/yousufasad/qa-betting-assignment/blob/1b24c9b690e16c3db7ba595
 ### Expected Result
 
 Receipt payout should equal:
-Stake × Selected Odds and should match the potential payout shown before placement.
+Stake x Selected Odds and should match the potential payout shown before placement.
 
 ### Actual Result
 
