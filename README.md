@@ -47,6 +47,7 @@ Scope:
 
 - Python 3
 - Pytest
+- pytest-html
 - Selenium WebDriver
 - Requests
 - Chrome
