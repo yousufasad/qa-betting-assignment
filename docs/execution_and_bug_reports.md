@@ -131,10 +131,6 @@ Before bet: €125.50
 Immediately after bet: €125.50  
 After reload: €115.50
 
-### Screen recording
-
-https://github.com/yousufasad/qa-betting-assignment/blob/88f67611b755ac6b23cc1e1270f97120774f0df9/docs/screenshots/bug-03-balance.mov
-
 ## BUG-04 – Past Match Can Be Selected and Bet Placed
 
 **Severity:** Critical
@@ -164,7 +160,7 @@ The application allows betting on an event outside the defined pre-match betting
 Successful bet placement was observed on a past match.
 
 ### Screenshot
-https://github.com/yousufasad/qa-betting-assignment/blob/7d6ea54b962d29cf22c8f519863636be5f828a4c/docs/bug-04-past-match-01.png
+https://github.com/yousufasad/qa-betting-assignment/blob/094b4b9ecb225683c7fe53c0cfaf2fcb26bbd6c5/docs/screenshots/bug-04-past-match-01.png
 
 https://github.com/yousufasad/qa-betting-assignment/blob/fdd7bf1877e72b989558779fafb933a358b450a8/docs/bug-04-past-match-02.png
 
