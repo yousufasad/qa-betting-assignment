@@ -87,9 +87,6 @@ Examples:
 - Stake €10 x Odds 2.40 = €24.00 in Bet Slip
 - Receipt displayed €20.00
 
-- Stake €1 x Odds 1.90 = €1.90 in Bet Slip
-- Receipt displayed €2.00
-
 ### Business Impact
 
 The success receipt displays incorrect transaction information and may cause confusion when users verify their bet details.
@@ -100,6 +97,8 @@ Multiple successful bets reproduced the issue.
 
 ### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/2ed2827dce2f5ecb0091bef86f7c97929d476c18/docs/bug-02-payout-01.png
+
+https://github.com/yousufasad/qa-betting-assignment/blob/6e19ac6613dcf2da9cbf5198a9e554b842c23701/docs/bug-02-payout-02.png
 
 ## BUG-03 – Balance Display Not Updated Until Page Reload
 
