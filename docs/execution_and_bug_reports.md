@@ -95,7 +95,7 @@ The success receipt displays incorrect transaction information and may cause con
 Multiple successful bets reproduced the issue.
 
 ### Screenshot
-https://github.com/yousufasad/qa-betting-assignment/blob/2ed2827dce2f5ecb0091bef86f7c97929d476c18/docs/bug-02-payout-01.png
+https://github.com/yousufasad/qa-betting-assignment/blob/fc13cdaada6ef4d7517cccdb18eb7b8521d32642/docs/screenshots/bug-02-payout-01.png
 
 https://github.com/yousufasad/qa-betting-assignment/blob/6e19ac6613dcf2da9cbf5198a9e554b842c23701/docs/bug-02-payout-02.png
 
