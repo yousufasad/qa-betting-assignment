@@ -159,3 +159,8 @@ The application allows betting on an event outside the defined pre-match betting
 ### Evidence
 
 Successful bet placement was observed on a past match.
+
+### Screenshot
+https://github.com/yousufasad/qa-betting-assignment/blob/7d6ea54b962d29cf22c8f519863636be5f828a4c/docs/bug-04-past-match-01.png
+
+
