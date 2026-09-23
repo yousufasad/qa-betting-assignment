@@ -163,4 +163,6 @@ Successful bet placement was observed on a past match.
 ### Screenshot
 https://github.com/yousufasad/qa-betting-assignment/blob/7d6ea54b962d29cf22c8f519863636be5f828a4c/docs/bug-04-past-match-01.png
 
+https://github.com/yousufasad/qa-betting-assignment/blob/fdd7bf1877e72b989558779fafb933a358b450a8/docs/bug-04-past-match-02.png
+
 
