@@ -59,6 +59,11 @@ Incorrect minimum-stake validation could allow invalid bets or reject valid bets
 
 **Execution Result: PASS**
 
+**Observation:**
+The feature specification document has different values for the minimum stake (€1.00 and €1.01). 
+During testing €1.00 was accepted and €0.99 was rejected.
+Therefore,the application currently treats €1.00 as the minimum stake.
+
 ## TC-03 – Maximum Stake Boundary
 
 **Priority:** High
