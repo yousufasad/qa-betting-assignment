@@ -1,4 +1,5 @@
 # Python dependencies for the QA automation framework
+
 pytest
 selenium
 requests
