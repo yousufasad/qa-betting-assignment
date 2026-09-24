@@ -1,10 +1,10 @@
 # Test Plan — Single Bet Placement Feature
 
-**Author:** Asad Yousuf
-**User ID under test:** candidate-XBDm8Gl4Ygz6
-**Application:** https://qae-assignment-tau.vercel.app
-**API docs:** https://qae-assignment-tau.vercel.app/api/docs
-**Platform:** Desktop web (Chrome, latest)
+**Author:** Asad Yousuf  
+**Test User ID:** candidate-XBDm8Gl4Ygz6  
+**Application:** https://qae-assignment-tau.vercel.app  
+**API docs:** https://qae-assignment-tau.vercel.app/api/docs  
+**Platform:** Desktop web (Chrome, latest)  
 **Spec reference:** Single Bet Placement Feature Specification
 
 ## TC-01 – Successful Single Bet Placement
