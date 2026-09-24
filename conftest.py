@@ -1,3 +1,5 @@
+# Pytest fixtures and test setup for the QA automation framework
+
 import pytest
 import requests
 
