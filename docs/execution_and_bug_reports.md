@@ -121,13 +121,15 @@ The displayed balance remains unchanged immediately after placement and updates 
 
 The user may temporarily see an incorrect available balance after placing a bet.
 
-### Evidence
+### Evidence/Screen recording
 
 Example:
 
-Before bet: €125.50  
-Immediately after bet: €125.50  
-After reload: €115.50
+Before bet: €120.00  
+Immediately after bet: €120.00  
+After reload: €118.00
+
+https://github.com/yousufasad/qa-betting-assignment/blob/aa4c0eb0cbfe82a150ebae1863745808ae727239/docs/screenshots/bug-03-balance.mov
 
 ## BUG-04 – Past Match Can Be Selected and Bet Placed
 
