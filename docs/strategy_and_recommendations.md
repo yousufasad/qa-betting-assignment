@@ -44,7 +44,7 @@ The API test validates that:
 API automation provides faster feedback and validates the business rule
 without depending on the UI.
 
-## 3. What Remains Manual
+## 3. Manual Testing Areas
 
 The following areas remain suitable for manual and exploratory testing:
 
@@ -75,11 +75,9 @@ Code Change
 
 ### Recommendation 2 – Test Data Management
 
-Use controlled test data and reset mechanisms so that automated tests
-remain independent and repeatable.
+Use fixed test data and reset the test data before each test so that test start from a known state.
 
-The existing balance reset endpoint can help maintain a predictable
-starting state for tests.
+The existing balance reset API can be used to reset the balance and keep automated tests consistent and repeatable.
 
 ### Recommendation 3 – Expand API Coverage
 
@@ -104,4 +102,5 @@ grows.
 
 ## 6. Requirement Clarification
 
-There is difference in feature specification document regarding the minimum stake (€1.00 and €1.01). The expected value should be confirmed to ensure consistent testing.
+There is difference in feature specification document regarding the minimum stake (€1.00 and €1.01). 
+The expected value should be confirmed to ensure consistent testing.
