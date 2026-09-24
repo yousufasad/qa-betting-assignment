@@ -75,29 +75,30 @@ Code Change
 
 ### Recommendation 2 – Test Data Management
 
-Use fixed test data and reset the test data before each test so that test start from a known state.
+Use controlled test data and reset it before each test so that start from a known state.
 
-The existing balance reset API can be used to reset the balance and keep automated tests consistent and repeatable.
+The automation already uses the balance reset API to provide a consistent starting balance. 
+This approach should be continued as more tests are added to keep the tests independent and repeatable. 
 
 ### Recommendation 3 – Expand API Coverage
 
-Additional API automation can cover:
+The current API automation covers insufficient balance validation. 
+As the framework grows, additional API tests can be added for:
 
 - Authentication/User ID validation
 - Invalid requests
 - Minimum and maximum stake validation
 - Odds validation
-- Balance validation
 - Successful bet placement
-- Duplicate or invalid match selections
+- Invalid match selections
 
 ## 5. Overall Strategy
 
 The recommended approach is to automate stable, high-value and repeatable
 business flows while keeping exploratory, visual and frequently changing
-areas manual.
+areas for manual testing.
 
-The framework should remain lightweight and maintainable as the application
+Keep the automation framework simple and easy to maintain as the application
 grows.
 
 ## 6. Requirement Clarification
