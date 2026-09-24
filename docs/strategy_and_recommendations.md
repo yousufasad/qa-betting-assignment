@@ -101,3 +101,7 @@ areas manual.
 
 The framework should remain lightweight and maintainable as the application
 grows.
+
+## 6. Requirement Clarification
+
+There is difference in feature specification document regarding the minimum stake (€1.00 and €1.01). The expected value should be confirmed to ensure consistent testing.
