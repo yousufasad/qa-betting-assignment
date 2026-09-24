@@ -50,13 +50,13 @@ Example:
 
 The confirmation receipt displays incorrect match information, which can cause confusion when users review their completed bet.
 
-### Evidence/Screenshot
+### Evidence
 
 Observed across multiple successful bets.
 
-https://github.com/yousufasad/qa-betting-assignment/blob/db68f15d9046d53fe7c85141b50cdd07f2100cd8/docs/screenshots/bug-01-match-order-01.png
+![BUG-01 Screenshot 1](screenshots/bug-01-match-order-01.png)
 
-https://github.com/yousufasad/qa-betting-assignment/blob/1b24c9b690e16c3db7ba595e1d70339a704fc76c/docs/screenshots/bug-01-match-order-02.png
+![BUG-01 Screenshot 2](screenshots/bug-01-match-order-02.png)
 
 ## BUG-02 – Incorrect Potential Payout in Success Receipt
 
@@ -89,7 +89,7 @@ Examples:
 
 The success receipt displays incorrect transaction information and may cause confusion when users verify their bet details.
 
-### Evidence/Screenshot
+### Evidence
 
 Multiple successful bets reproduced the issue.
 
@@ -121,7 +121,7 @@ The displayed balance remains unchanged immediately after placement and updates 
 
 The user may temporarily see an incorrect available balance after placing a bet.
 
-### Evidence/Screen recording
+### Evidence
 
 Example:
 
@@ -155,7 +155,7 @@ A past match can be selected and a bet can be successfully placed.
 
 The application allows betting on an event outside the defined pre-match betting scope.
 
-### Evidence/Screenshot
+### Evidence
 
 Successful bet placement was observed on a past match.
 
