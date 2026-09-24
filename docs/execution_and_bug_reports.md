@@ -93,9 +93,9 @@ The success receipt displays incorrect transaction information and may cause con
 
 Multiple successful bets reproduced the issue.
 
-https://github.com/yousufasad/qa-betting-assignment/blob/fc13cdaada6ef4d7517cccdb18eb7b8521d32642/docs/screenshots/bug-02-payout-01.png
+![BUG-02 Payout Screenshot 1](screenshots/bug-02-payout-01.png)
 
-https://github.com/yousufasad/qa-betting-assignment/blob/fde7b2c64eb17ad053955444df03faeced1f3d51/docs/screenshots/bug-02-payout-02.png
+![BUG-02 Payout Screenshot 2](screenshots/bug-02-payout-02.png)
 
 ## BUG-03 – Balance Display Not Updated Until Page Reload
 
@@ -129,7 +129,7 @@ Before bet: €120.00
 Immediately after bet: €120.00  
 After reload: €118.00
 
-https://github.com/yousufasad/qa-betting-assignment/blob/aa4c0eb0cbfe82a150ebae1863745808ae727239/docs/screenshots/bug-03-balance.mov
+[View screen recording](screenshots/bug-03-balance.mov)
 
 ## BUG-04 – Past Match Can Be Selected and Bet Placed
 
@@ -159,7 +159,6 @@ The application allows betting on an event outside the defined pre-match betting
 
 Successful bet placement was observed on a past match.
 
-https://github.com/yousufasad/qa-betting-assignment/blob/094b4b9ecb225683c7fe53c0cfaf2fcb26bbd6c5/docs/screenshots/bug-04-past-match-01.png
+![BUG-04 Past Match Screenshot 1](screenshots/bug-04-past-match-01.png)
 
-https://github.com/yousufasad/qa-betting-assignment/blob/fa866a1520a153536962aace3c7dbb9a77b022bd/docs/screenshots/bug-04-past-match-02.png
-
+![BUG-04 Past Match Screenshot 2](screenshots/bug-04-past-match-02.png)
