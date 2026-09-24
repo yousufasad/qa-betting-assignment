@@ -1,3 +1,5 @@
+# Files and folders to exclude from Git
+
 __pycache__/
 .pytest_cache/
 *.pyc
